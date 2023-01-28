@@ -9,9 +9,14 @@
   "start_url": "./",
   "icons": [
       {
-          "src": "./imagen.jpg",
+          "src": "./icons/icon512.jpg",
           "type": "image/jpg",
           "sizes": "512x512"
-      }
+      },
+      {
+        "src": "./icons/icon192.jpg",
+        "type": "image/jpg",
+        "sizes": "192x192"
+    }
   ]
 }
